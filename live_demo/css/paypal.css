@@ -1,0 +1,49 @@
+.modal
+{
+    background-color: #02347C !important;
+}
+
+.depositHeader 
+{
+    font-size: 32px;
+    font-family: fantasy;
+    text-align: center;
+    padding: 10px 0;
+    color: white;
+}
+
+.depositContent
+{
+    color: white;
+    font-size: 16px;
+    font-family: 'motorwerkregular';
+}
+
+.depositInput
+{
+    margin: 10px 0;
+    padding: 5px 0;
+}
+
+#paypal-button-container
+{
+    margin-bottom: 20px;
+}
+
+.modal a.close-modal 
+{
+    top: -6.5px !important;
+    right: -6.5px !important;
+}
+
+.withdraw-button
+{
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    background-color: #FFC439;
+    border-radius: 3px;
+    border: none;
+    font-family: fantasy;
+    font-size: 19px;
+}
